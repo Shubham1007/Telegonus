@@ -1,0 +1,6 @@
+{
+    "require": {
+        "thadafinser/user-agent-parser": "^2.0",
+        "whichbrowser/parser": "^2.0"
+    }
+}
