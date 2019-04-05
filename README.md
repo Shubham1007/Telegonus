@@ -17,7 +17,7 @@ Googlebot-Image/1.0
 </p>
 <br/>
 <h1>Basic Scenario</h1>
-<img src="first.jpg" alt="firstimage"> 
+<img src="first.JPG" alt="firstimage"> 
 
 <br/>
 <h1>A sample canvas</h1><br/>-
@@ -30,6 +30,12 @@ The below given image is an example of the canvas which the server requests the 
 Some 35 different canvases are collated below to show how they change from browser to browser and OS to OS.
 <br/>
 <img src="third.jpg" alt="secondimage"> 
+
+
+<h1>Genuine Fingerprints</h1><br/>
+
+<img src="fourth.jpg" alt="secondimage"> 
+
 
 
 
