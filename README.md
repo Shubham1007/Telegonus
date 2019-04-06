@@ -1,10 +1,9 @@
 # Telegonus
 It is web service which will detect unique system using user agent of the
 system and we find any fake user agent which is not available in side our
-database we will show him unsolvable captcha .
+database we will show him unsolvable captcha.
 
 <h1>User Agent</h1>
-
 
 <h1>1)A Normal User Agent</h1><br/>
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
@@ -33,7 +32,6 @@ Some 35 different canvases are collated below to show how they change from brows
 
 
 <h1>Genuine Fingerprints</h1><br/>
-
 <img src="fourth.jpg" alt="secondimage"> 
 
 
