@@ -22,6 +22,7 @@ Googlebot-Image/1.0
 <h1>Canvas Fingerprinting</h1>
 <p>The solution to verify the authenticity of a received User Agent
 </p>
+
 <br/>
 <h1>Basic Scenario</h1>
 <img src="first.JPG" alt="firstimage"> 
