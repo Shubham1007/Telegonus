@@ -6,6 +6,7 @@ database we will show him unsolvable captcha.
 
 
 
+
 <h1>User Agent</h1>
 
 
@@ -39,6 +40,7 @@ Some 35 different canvases are collated below to show how they change from brows
 
 <h1>Genuine Fingerprints</h1><br/>
 <img src="fourth.jpg" alt="secondimage"> 
+
 
 
 
