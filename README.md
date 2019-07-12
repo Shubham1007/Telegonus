@@ -22,23 +22,23 @@ Googlebot-Image/1.0
 
 <br/>
 <h1>Basic Scenario</h1>
-<img src="first.JPG" alt="firstimage"> 
+<img src="img/first.JPG" alt="firstimage"> 
 
 <br/>
 <h1>A sample canvas</h1><br/>-
 The below given image is an example of the canvas which the server requests the browser to draw.
-<img src="second.jpg" alt="secondimage"> 
+<img src="img/second.jpg" alt="secondimage"> 
 
 <br/>
 
 <h1>Canvas differences</h1>
 Some 35 different canvases are collated below to show how they change from browser to browser and OS to OS.
 <br/>
-<img src="third.jpg" alt="secondimage"> 
+<img src="img/third.jpg" alt="secondimage"> 
 
 
 <h1>Genuine Fingerprints</h1><br/>
-<img src="fourth.jpg" alt="secondimage"> 
+<img src="img/fourth.jpg" alt="secondimage"> 
 
 
 
